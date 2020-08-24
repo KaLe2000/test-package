@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Talovskiy\Test;
+namespace Talovskiy\Example;
 
 class Test {
     protected $text;

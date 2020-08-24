@@ -2,6 +2,5 @@
 
 Only practice
 
-```bash
-composer require KaLe2000/test-package
-```
+https://github.com/KaLe2000/test-package
+https://packagist.org/packages/talovskiy/example
