@@ -1,0 +1,18 @@
+{
+    "name": "talovskiy/example",
+    "description": "Example package",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Nikita Talovskiy",
+            "email": "talovskiy@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Talovskiy\\Example\\": "src/"
+        }
+    }
+}
